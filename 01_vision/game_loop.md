@@ -1,6 +1,6 @@
 # Game loop — Timeworn (macro structure)
 
-**Purpose:** Canonical **macro** loop for the **action sandbox**: stash ↔ raid, **three progression tiers**, **train / final extract** as **stakes mechanics** (not the whole game identity), and the **craft → town → build → defenses → Exodus** spine—**building** outputs **defenses** (RTS-style “construction matters”), not troop queues; **Exodus** is the **endgame craftable**. Text equivalent of the **Game Loop** flowchart (team artifact). Session step-by-step detail and vertical-slice mapping stay in **`core_extraction_loop.md`**.
+**Purpose:** Canonical **macro** loop for the **action sandbox**: stash ↔ raid, **three progression tiers**, **train / final extract** as **stakes mechanics** (not the whole game identity), and the **craft → town → build → defenses → Exodus** spine—**building** outputs **defenses** (RTS-style "construction matters"), not troop queues; **Exodus** is the **endgame craftable**. Text equivalent of the **Game Loop** flowchart (team artifact). Session step-by-step detail and vertical-slice mapping stay in the [Core Session Loop](core_extraction_loop.md).
 
 **Diagram (optional):** If you add the exported PNG to the repo, place it at `07_reference/diagrams/timeworn_game_loop.png` and link it from here for artists and new readers.
 
@@ -8,7 +8,7 @@
 
 ## Outer loop: stash, social, and loadout
 
-- **Stash & social** — Off-raid state: inventory persistence, social hooks, preparation. (Full meta: `meta_loop_intent.md`, vault: `../04_systems/vault_and_loadout.md`.)
+- **Stash & social** — Off-raid state: inventory persistence, social hooks, preparation. (Full meta: [Meta Loop](meta_loop_intent.md), vault: [Vault & Loadout](../04_systems/vault_and_loadout.md).)
 - **Choose loadout** — What you risk on the run; enters the raid at **spawn**.
 - **Return** — Successful extraction: **keep what you extracted** (and loadout rules) back into stash/social. Failed runs use the same product rules as today (TBD tuning in systems/production).
 
@@ -31,11 +31,11 @@ Higher tiers assume you have unlocked capabilities and gear from lower tiers; ex
 
 Each tier has a corresponding **extract train** moment (escalating stakes / difficulty):
 
-1. **Extract Train 1** — Early / low tier; first reliable “get out” read for the session.
+1. **Extract Train 1** — Early / low tier; first reliable "get out" read for the session.
 2. **Extract Train 2** — Mid / medium tier.
 3. **Extract Train 3** — Late / high tier.
 
-**Final extract** — After **Exodus** (end-tier objective), the run resolves through a **final extraction** beat (product framing: “close the loop” for that session arc). Train remains the v1 fantasy for extract moments unless we branch variants later (`core_extraction_loop.md`).
+**Final extract** — After **Exodus** (end-tier objective), the run resolves through a **final extraction** beat (product framing: "close the loop" for that session arc). Train remains the v1 fantasy for extract moments unless we branch variants later ([Core Session Loop](core_extraction_loop.md)).
 
 ---
 
@@ -73,16 +73,16 @@ Each tier has a corresponding **extract train** moment (escalating stakes / diff
 
 ## PvPvE and slice alignment
 
-- **Raid spaces** remain **PvPvE** and **no fully safe zones** in-contested areas (`design_goals.md`). Stash/social is out-of-raid.
-- The **vertical slice** proves the **end-to-end session spine** at **tier-1 / survive** fidelity first (train extract v1, musket, minimal inventory, 2P) — see `../05_production/playable_slice_strip_order.md` and the mapping table in `core_extraction_loop.md`. Later strips or milestones layer **town, build, defenses, Exodus** without redefining the slice contract until production revises it explicitly.
+- **Raid spaces** remain **PvPvE** and **no fully safe zones** in contested areas ([Design Goals](design_goals.md)). Stash/social is out-of-raid.
+- The **vertical slice** proves the **end-to-end session spine** at **tier-1 / survive** fidelity first (train extract v1, musket, minimal inventory, 2P) — see [Playable Slice — Strip Order](../05_production/playable_slice_strip_order.md) and the mapping table in the [Core Session Loop](core_extraction_loop.md). Later strips or milestones layer **town, build, defenses, Exodus** without redefining the slice contract until production revises it explicitly.
 
 ---
 
 ## Related docs
 
-- Session steps + nine-strip table: **`core_extraction_loop.md`**
-- Meta between raids: **`meta_loop_intent.md`**
-- Crafting / base: **`../04_systems/crafting.md`**, **`../04_systems/base_building.md`**
-- Loot tiers: **`../04_systems/weapons_loot_tiers.md`**
-- Robots: **`../04_systems/enemies_future_robots.md`**
-- Overview GDD: **`../GAME_DESIGN_DOCUMENT.md`**
+- Session steps + nine-strip table: [Core Session Loop](core_extraction_loop.md)
+- Meta between raids: [Meta Loop](meta_loop_intent.md)
+- Crafting / base: [Crafting](../04_systems/crafting.md), [Base Building](../04_systems/base_building.md)
+- Loot tiers: [Weapons & Loot Tiers](../04_systems/weapons_loot_tiers.md)
+- Robots: [Enemies — Future Robots](../04_systems/enemies_future_robots.md)
+- Overview GDD: [Game Design Document](../GAME_DESIGN_DOCUMENT.md)

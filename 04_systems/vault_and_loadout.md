@@ -11,7 +11,7 @@
 
 ## Persistence vs weekly hub wipe
 
-- **Weekly reset** (**`../01_vision/resets_and_world_events.md`**): **Homestead / base build** is **wiped**. Contents of the **bank vault** **persist** — you **keep** everything stored there.
+- **Weekly reset** ([Resets & World Events](../01_vision/resets_and_world_events.md)): **Homestead / base build** is **wiped**. Contents of the **bank vault** **persist** — you **keep** everything stored there.
 - **Rationale:** Rebuild fantasy without **zeroing** long-term **loot** progress; vault is the **safety** layer for **extracted** gear and mats.
 
 ## Flow (target)
@@ -30,4 +30,4 @@
 
 ---
 
-*Related:* `../01_vision/core_extraction_loop.md`, `../01_vision/resets_and_world_events.md`, `crafting.md`, `vendors.md`.
+*Related:* [Core Session Loop](../01_vision/core_extraction_loop.md), [Resets & World Events](../01_vision/resets_and_world_events.md), [Crafting](crafting.md), [Vendors](vendors.md).

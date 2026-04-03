@@ -3,7 +3,7 @@
 ## Era baseline
 
 - **Lower / majority of the weapon pool:** grounded in **1850s–1870s** technology and silhouette (materials, ballistics fantasy, reloading metaphors — exact realism TBD).
-- **Progression** still ties to **robot salvage** for **tech** (`enemies_future_robots.md`, `crafting.md`); **tier** expresses **how much** future has **bled into** the gun, not only the model year.
+- **Progression** still ties to **robot salvage** for **tech** ([Enemies — Future Robots](enemies_future_robots.md), [Crafting](crafting.md)); **tier** expresses **how much** future has **bled into** the gun, not only the model year.
 
 ## Loot tiers *(locked color ladder)*
 
@@ -20,15 +20,15 @@
 ## Attachments (global rule)
 
 - **Attachments are overwhelmingly future-tech** in look and function.
-- **Exceptions:** a **small** set of **simple, period-plausible** bits (e.g. basic sling, simple sights) — **enumerate** in `attachments_catalog.md` as you add them.
+- **Exceptions:** a **small** set of **simple, period-plausible** bits (e.g. basic sling, simple sights) — **enumerate** in the [Attachments Catalog](attachments_catalog.md) as you add them.
 
 ### Attachment ↔ weapon tier mixing *(DECISION)*
 
 - **You may mix tiers:** a **high-tier** attachment can sit on a **low-tier** weapon and vice versa, **as long as** **slot / weapon-family compatibility** is satisfied.
 - **Balance** comes from **stats, tradeoffs, and crafting cost** — not a hard rule that **grey guns** forbid **yellow mods** (unless a **specific** item says otherwise later).
 
-*Full attachment rows (buffs, nerfs, compat, tier):* **`attachments_catalog.md`**.
+*Full attachment rows (buffs, nerfs, compat, tier):* [Attachments Catalog](attachments_catalog.md).
 
 ---
 
-*Related:* `weapon_single_shot_musket.md`, `attachments_catalog.md`, `enemies_future_robots.md`, `crafting.md`.
+*Related:* [Single-Shot Musket](weapon_single_shot_musket.md), [Attachments Catalog](attachments_catalog.md), [Enemies — Future Robots](enemies_future_robots.md), [Crafting](crafting.md).

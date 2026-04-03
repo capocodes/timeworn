@@ -1,6 +1,6 @@
 # Attachments catalog *(working)*
 
-**Rules:** See `weapons_loot_tiers.md` — **most** attachments are **future**; **few** **simple / period** exceptions marked explicitly. **Mixing:** **attachment tier** and **weapon tier** are **independent** — any legal combo allowed by **compatibility** (e.g. **yellow** mod on **grey** gun OK).
+**Rules:** See [Weapons & Loot Tiers](weapons_loot_tiers.md) — **most** attachments are **future**; **few** **simple / period** exceptions marked explicitly. **Mixing:** **attachment tier** and **weapon tier** are **independent** — any legal combo allowed by **compatibility** (e.g. **yellow** mod on **grey** gun OK).
 
 **Columns (fill as you design):**
 
@@ -34,4 +34,4 @@
 
 ---
 
-*Related:* `weapons_loot_tiers.md`, `weapon_single_shot_musket.md` *(musket attachment slots TBD)*.
+*Related:* [Weapons & Loot Tiers](weapons_loot_tiers.md), [Single-Shot Musket](weapon_single_shot_musket.md) *(musket attachment slots TBD)*.

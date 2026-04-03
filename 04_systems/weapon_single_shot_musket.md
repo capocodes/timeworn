@@ -2,15 +2,15 @@
 
 ## Role in the slice
 
-- **Strip #4** in `../05_production/playable_slice_strip_order.md`: the **first** ranged weapon wired end-to-end for the playable vertical slice.
-- Supports **mid-first** engagement goals in `../01_vision/design_goals.md` — one gun that can **read** at multiple distances in a small env pocket (exact falloff / accuracy TBD).
-- **Long-term arc:** **period** firearm vs **futuristic** weapons unlocked via **robot salvage** (`enemies_future_robots.md` + `crafting.md`).
+- **Strip #4** in the [Playable Slice — Strip Order](../05_production/playable_slice_strip_order.md): the **first** ranged weapon wired end-to-end for the playable vertical slice.
+- Supports **mid-first** engagement goals in [Design Goals](../01_vision/design_goals.md) — one gun that can **read** at multiple distances in a small env pocket (exact falloff / accuracy TBD).
+- **Long-term arc:** **period** firearm vs **futuristic** weapons unlocked via **robot salvage** ([Enemies — Future Robots](enemies_future_robots.md) + [Crafting](crafting.md)).
 
 ## Identity
 
 - **Single-shot** long gun (musket-class): **one round per shot**, then **reload / rechamber** loop — pacing leans into **slow, methodical** combat direction.
-- Period-appropriate for the **frontier / 1860s-adjacent** fantasy (see `../arizona_game_concept.md`); implementation detail (cap vs paper cartridge, etc.) can stay abstract until art/narrative lock.
-- **Loot tier:** Expect **grey–green** band for a **starter** musket; **yellow** = **fully future** weapon only (`weapons_loot_tiers.md`). **Attachments** on top can still be **future** mods (`attachments_catalog.md`).
+- Period-appropriate for the **frontier / 1860s-adjacent** fantasy (see [Concept](../arizona_game_concept.md)); implementation detail (cap vs paper cartridge, etc.) can stay abstract until art/narrative lock.
+- **Loot tier:** Expect **grey–green** band for a **starter** musket; **yellow** = **fully future** weapon only ([Weapons & Loot Tiers](weapons_loot_tiers.md)). **Attachments** on top can still be **future** mods ([Attachments Catalog](attachments_catalog.md)).
 
 ## Reference (inspiration)
 
@@ -18,7 +18,7 @@
 
 ## Quality bar (slice)
 
-- Match project stance in `../01_vision/design_goals.md`: **one gun, done properly** — animation timing, audio, hit feedback, and reload **read as intentional**, not temp silence + cube arms.
+- Match project stance in [Design Goals](../01_vision/design_goals.md): **one gun, done properly** — animation timing, audio, hit feedback, and reload **read as intentional**, not temp silence + cube arms.
 
 ## Reload — cancel rules *(locked)*
 

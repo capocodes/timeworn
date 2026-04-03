@@ -1,6 +1,6 @@
 # Technical baseline — Unreal **Lyra**
 
-**DECISION:** The **Timeworn** Unreal project is **rebased on** (or **merged with**) Epic’s **[Lyra](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine)** starter game as the **technical foundation**.
+**DECISION:** The **Timeworn** Unreal project is **rebased on** (or **merged with**) Epic's **[Lyra](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine)** starter game as the **technical foundation**.
 
 ## Rationale (typical wins)
 
@@ -9,9 +9,9 @@
 
 ## Implications
 
-- **Design docs** stay **gameplay-first**; **implementation** maps into **Lyra’s** extension points where possible (**custom experiences**, **weapons**, **modes**).
+- **Design docs** stay **gameplay-first**; **implementation** maps into **Lyra's** extension points where possible (**custom experiences**, **weapons**, **modes**).
 - **Vertical slice** work may include **Lyra cleanup** (remove sample branding/content) in parallel with **musket**, **enemy**, **train extract** — budget time in **devlogs** if rebasing is visible to viewers.
-- **Python / tools** in `tools/` should assume **Lyra-style** project layout until documented otherwise (update `tools/README.md` when paths stabilize).
+- **Python / tools** in [Tools](../tools/README.md) should assume **Lyra-style** project layout until documented otherwise (update that README when paths stabilize).
 
 ## Progress *(user update)*
 
@@ -19,7 +19,7 @@
 - [ ] **Reload animation** — **cleanup / polish** pass.
 - [ ] **Placeholder audio** — reload, fire, foley (supports devlog + feel tests).
 - [ ] **Placeholder UI** — minimal HUD prompts where needed for weapon state (even greybox).
-- **Note:** Lyra’s default look is **distractingly futuristic** but **very polished**. For **devlogs** and **pitch**, plan **visual framing** (lighting, env, shot choice) and **incremental** swap of Lyra chrome for **Western / period** tone until **custom** UI and art land.
+- **Note:** Lyra's default look is **distractingly futuristic** but **very polished**. For **devlogs** and **pitch**, plan **visual framing** (lighting, env, shot choice) and **incremental** swap of Lyra chrome for **Western / period** tone until **custom** UI and art land.
 
 ## Open (engineering)
 
@@ -29,4 +29,4 @@
 
 ---
 
-*Logged in* `decisions.md` *(2026-03-29).*
+*Logged in the [Decision Log](decisions.md) (2026-03-29).*
