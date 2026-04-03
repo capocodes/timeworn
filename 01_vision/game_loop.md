@@ -1,6 +1,6 @@
 # Game loop — Timeworn (macro structure)
 
-**Purpose:** Canonical **macro** loop: stash ↔ raid, **three progression tiers**, extraction trains, and the **craft → town → build → exodus** spine. This is the text equivalent of the **Game Loop** flowchart (team artifact). Session step-by-step detail and vertical-slice mapping stay in **`core_extraction_loop.md`**.
+**Purpose:** Canonical **macro** loop for the **action sandbox**: stash ↔ raid, **three progression tiers**, **train / final extract** as **stakes mechanics** (not the whole game identity), and the **craft → town → build → defenses → Exodus** spine—**building** outputs **defenses** (RTS-style “construction matters”), not troop queues; **Exodus** is the **endgame craftable**. Text equivalent of the **Game Loop** flowchart (team artifact). Session step-by-step detail and vertical-slice mapping stay in **`core_extraction_loop.md`**.
 
 **Diagram (optional):** If you add the exported PNG to the repo, place it at `07_reference/diagrams/timeworn_game_loop.png` and link it from here for artists and new readers.
 

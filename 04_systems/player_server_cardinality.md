@@ -16,7 +16,7 @@
 
 | Lever | Idea |
 |--------|------|
-| **Party before queue** | Form **duo/trio** in **social/base UI**, then **queue raid together** → matchmaking places the **party in the same instance** (standard extraction pattern). |
+| **Party before queue** | Form **duo/trio** in **social/base UI**, then **queue raid together** → matchmaking places the **party in the same instance** (standard party-raid pattern). |
 | **Same home realm** | Characters that share a **persistent realm** see each other in **base** and can **party** reliably. |
 | **Invite / join friend** | “Join [Friend]’s session” if in **base** or **pre-raid lobby** — requires **same realm** or a **cross-realm lobby** layer (harder). |
 | **Server picker at signup** | Player **chooses realm** once; show **friend’s realm** as recommendation. |
@@ -35,7 +35,7 @@
    - **Persistence** (base, stash, skills) = **per realm**.  
    - **Raids** = **ephemeral instances** drawn from a **regional pool** on that realm (or cross-realm pool with care).  
    - **Party** locks **same instance**.  
-   - *Best fit for “one char per server” + extraction.*
+   - *Best fit for “one char per server” + session raids.*
 
 2. **Global account + only cosmetic “server”**  
    - No per-server character; **region** is latency only. Easiest friends/solo, weak “server community.”

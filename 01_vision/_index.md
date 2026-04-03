@@ -2,7 +2,7 @@
 
 Premise, pillars, audience, non‑negotiables.
 
-**Start here for the full picture:** **`../GAME_DESIGN_DOCUMENT.md`** — overview GDD tying creative concept to extraction multiplayer scope and linking into this folder.
+**Start here for the full picture:** **`../GAME_DESIGN_DOCUMENT.md`** — overview GDD tying creative concept to **action sandbox** (strategy + gunplay, session PvPvE) scope and linking into this folder.
 
 **Creative premise & teaser:** **`../arizona_game_concept.md`**. Split into focused files here when ready (e.g. `premise.md`, `pillars.md`, `tone.md`).
 

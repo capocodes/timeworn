@@ -1,6 +1,6 @@
 # Base building — intent *(stub)*
 
-**Purpose:** Between-raid **homestead / neighborhood** construction — **PvE-only** social space (`../01_vision/meta_loop_intent.md`). **Full mechanics TBD**; this file anchors **direction** until you spec modules, snap, limits, and UI.
+**Purpose:** Between-raid **homestead / neighborhood** construction — **PvE-only** social space (`../01_vision/meta_loop_intent.md`). **Full mechanics TBD**; this file anchors **direction** until you spec modules, snap, limits, and UI. **In-raid** **defenses** and **town → tech → Exodus** spine are **`../01_vision/game_loop.md`** (action sandbox), not duplicated here.
 
 ## Inspiration *(touchstone)*
 

@@ -7,7 +7,7 @@
 ## Scope philosophy (breadth vs depth)
 
 - **Few systems, each strong:** The vertical slice **limits how many** systems ship (see `../05_production/playable_slice_strip_order.md`) so scope stays bounded — but **each included system should feel fleshed out and excellent**, not “greybox until later.”
-- **What we avoid:** **Feature creep** *inside* a system before the **full loop** works (e.g. second gun, enemy roster, full settings menu). **Depth** means **this musket / this HUD / this extraction** reads **great**, not **more** systems.
+- **What we avoid:** **Feature creep** *inside* a system before the **full loop** works (e.g. second gun, enemy roster, full settings menu). **Depth** means **this musket / this HUD / this extract beat** reads **great**, not **more** systems.
 - Narrow **count** + high **bar** = the game reads as **intentional** in devlogs and playtests, not a tech demo glued together.
 
 ## Combat pace & TTK

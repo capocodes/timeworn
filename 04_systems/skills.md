@@ -10,7 +10,7 @@
 
 ## Balance
 
-- Gaps must not make **new players** non-viable in **duo/trio** extraction — see **anti-grief** and TTK direction in `../01_vision/design_goals.md`.
+- Gaps must not make **new players** non-viable in **duo/trio** raids — see **anti-grief** and TTK direction in `../01_vision/design_goals.md`.
 
 ## Links
 

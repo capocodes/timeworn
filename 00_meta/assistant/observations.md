@@ -45,7 +45,7 @@
 
 ## 2026-03-25 — Extraction loop + meta
 
-- **Session loop** (party/loadout/join → timer → PvPvE/loot → train extract → round review): `01_vision/core_extraction_loop.md` + slice alignment table.
+- **Session loop** (party/loadout/join → timer → PvPvE/loot/build → train extract → round review): `01_vision/core_extraction_loop.md` + slice alignment table. **Pitch:** action sandbox (`GAME_DESIGN_DOCUMENT.md`), not extraction-shooter-as-genre.
 - **Meta intent:** co-op vs solo quests, **PvE-only base/social** with loot sink, seasons, horses?, factions Apache / Cowboys / machines (**name TBD**).
 - **Unresolved scale:** map size, base vs raid time %, server/player cardinality — `01_vision/scale_and_unresolved.md`.
 

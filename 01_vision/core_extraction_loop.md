@@ -1,4 +1,4 @@
-# Core session loop — extraction shooter
+# Core session loop — raid flow (incl. extract beats)
 
 **Canonical session flow (steps).** The **full macro picture** — three tiers (survive / build / extract), loot bands, **three extract trains + final extract**, stash ↔ loadout, and the **craft → town → build → defenses → Exodus** spine — lives in **`game_loop.md`**. This file stays the **step list** and **vertical-slice alignment** so engineering and production have one short page for “what happens each raid.”
 
@@ -7,7 +7,7 @@
 1. **Party** — Choose **solo** or **party** (**duo** or **trio**).
 2. **Loadout** — Configure what you bring into the raid (subset of your gear; **bank vault** holds the rest — `../04_systems/vault_and_loadout.md`). Framed in **`game_loop.md`** as leaving **stash & social** into the run.
 3. **Join server** — Enter a **match / instance** (server model TBD — see `scale_and_unresolved.md`).
-4. **Raid pressure** — **Timer** (or equivalent pressure) to **extract or die**. **Lore justification** for why extraction is **mandatory** is **TBD** (must support tension without undermining fantasy — track in narrative when split out).
+4. **Raid pressure** — **Timer** (or equivalent pressure) to **hit extract beats or fail the run**. **Lore justification** for why that pressure exists is **TBD** (must support tension without undermining fantasy — track in narrative when split out).
 5. **Mid-raid play** — **Loot** and/or **fight**; **PvPvE always**, **no safe zones** (see `design_goals.md`). Over a full product run this play **ramps through tiers** (survive → build → extract climax) per **`game_loop.md`**; slice v1 focuses on proving **tier 1** feel plus **one** strong extract train moment.
 6. **Extract** — Primary v1 exit: **train extraction** (tiered **Extract Train 1–3** + **final extract** after **Exodus** in target design — see **`game_loop.md`**). Other exits (e.g. **mine**) later.
 7. **Round review** — Post-raid summary (rewards, stats, downtime hook into meta — scope TBD).

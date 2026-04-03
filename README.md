@@ -2,7 +2,7 @@
 
 Design docs, production tracking, devlog scripts, and tooling for **Timeworn**. Game source and Unreal assets live in the separate Unreal project **Timeworn** (not this folder). **Engine baseline:** project is **rebased on Epic’s Lyra** starter — see `05_production/tech_baseline.md`.
 
-**Game overview (2–3 page GDD):** `GAME_DESIGN_DOCUMENT.md` — unifies **creative premise** (`arizona_game_concept.md`) with **macro loop** (`01_vision/game_loop.md`) and **session steps / slice** (`01_vision/core_extraction_loop.md`), and points to all numbered folders for depth.
+**Game overview (2–3 page GDD):** `GAME_DESIGN_DOCUMENT.md` — **action sandbox** pitch (strategy + gunplay; **extract** as a run mechanic); unifies **creative premise** (`arizona_game_concept.md`) with **macro loop** (`01_vision/game_loop.md`) and **session steps / slice** (`01_vision/core_extraction_loop.md`), and points to all numbered folders for depth.
 
 ## Layout
 

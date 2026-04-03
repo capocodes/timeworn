@@ -10,7 +10,7 @@
 
 *Status:* **Unresolved.**
 
-## Base vs extraction (time & content)
+## Base vs raid (time & content)
 
 - **Rough target:** What % of a player’s session or week is **in raid** vs **in base / social**?
 - Does **base** compete with **raid** for art/engine bandwidth in early milestones?
@@ -30,7 +30,7 @@
 
 ## Lore hooks tied to scale
 
-- **Why MUST you extract** (timer pressure) — narrative spec lives with `core_extraction_loop.md` until broken out to `../02_narrative/`.
+- **Why MUST extract pressure exist** (timer / failure state) — narrative spec lives with `core_extraction_loop.md` until broken out to `../02_narrative/`.
 
 ---
 

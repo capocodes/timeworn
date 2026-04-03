@@ -2,7 +2,7 @@
 
 **Purpose:** Stack **several cadences** — fast, slow, and ad hoc — so the world **breathes**, **rebalances**, and **surprises** without one system doing all the work. **Intent only** until scoped.
 
-**Reference touchstone:** **Weekly hub/base reset** is **Dune-inspired** — the feeling of **periodic world pressure** and **starting fresh** on the land you claim (franchise DNA; e.g. storms / cycles / *Dune: Awakening*-style rhythms you **liked**). Not a licensed mechanic copy — **capture the fantasy** in Western extraction form.
+**Reference touchstone:** **Weekly hub/base reset** is **Dune-inspired** — the feeling of **periodic world pressure** and **starting fresh** on the land you claim (franchise DNA; e.g. storms / cycles / *Dune: Awakening*-style rhythms you **liked**). Not a licensed mechanic copy — **capture the fantasy** in Western **session / sandbox** form.
 
 ---
 

@@ -1,6 +1,6 @@
 # Meta loop — intent (between / around raids)
 
-**Purpose:** Capture **longer-arc** direction so extraction raids don’t exist in a vacuum. **Not** a commitment to ship order—**intent** only until scoped.
+**Purpose:** Capture **longer-arc** direction so **raid sessions** don’t exist in a vacuum. **Not** a commitment to ship order—**intent** only until scoped.
 
 ## 1. Quests — co-op vs solo
 
