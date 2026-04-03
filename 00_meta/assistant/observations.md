@@ -63,7 +63,7 @@
 
 ## 2026-03-29 — Tech baseline
 
-- **Unreal:** Arizona **rebased on Lyra** (Epic starter). **Canon:** `05_production/tech_baseline.md`, `decisions.md`.
+- **Unreal:** **Timeworn** **rebased on Lyra** (Epic starter). **Canon:** `05_production/tech_baseline.md`, `decisions.md`.
 
 ## 2026-03-29 — Lyra prototype milestone
 

@@ -2,7 +2,7 @@
 
 **Intent:** **Limit breadth** (fixed strips below) so scope stays under control — but **each strip is implemented with a high quality bar**: clear, juicy, and **fleshed out enough to feel “real”** for that pillar. **Not** “placeholder everything until the loop ships,” and **not** endless new systems before the loop closes.
 
-**Implementation baseline:** Unreal work targets the **Lyra**-based Arizona project (`tech_baseline.md`) — use Lyra’s **multiplayer / UI / weapon** scaffolding where it accelerates the strips; **replace** sample content with Arizona/Timeworn identity over time.
+**Implementation baseline:** Unreal work targets the **Lyra**-based **Timeworn** project (`tech_baseline.md`) — use Lyra’s **multiplayer / UI / weapon** scaffolding where it accelerates the strips; **replace** sample content with **Timeworn** identity over time.
 
 **Core loop:** This slice is the **in-engine spine** of the **extraction session loop** in `../01_vision/core_extraction_loop.md` — every strip should **trace** to party/loadout/join → raid → **train extract** (and forward-compatible with **round review**). **Meta** (base, quests, seasons, **vendors/crafting/skills**) lives under `../01_vision/meta_loop_intent.md` plus `../04_systems/vendors.md`, `../04_systems/crafting.md`, `../04_systems/skills.md` — **out of slice v1** except where it informs **tone or UI copy**. **Realm vs raid instance** (friends/solo): `../04_systems/player_server_cardinality.md`.
 

@@ -1,11 +1,11 @@
 # Technical baseline — Unreal **Lyra**
 
-**DECISION:** The **Arizona** Unreal project is **rebased on** (or **merged with**) Epic’s **[Lyra](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine)** starter game as the **technical foundation**.
+**DECISION:** The **Timeworn** Unreal project is **rebased on** (or **merged with**) Epic’s **[Lyra](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine)** starter game as the **technical foundation**.
 
 ## Rationale (typical wins)
 
 - **Production-ready patterns** for **multiplayer**, **game features** (modular GAS-style setup), **UI**, **sessions**, and **weapon/character** scaffolding — aligns with **nine-strip** goals (**2P**, **HUD**, **inventory**, **menus**) without inventing plumbing from zero.
-- **Upgrade path** with engine versions; sample content to **replace** or **strip** as Arizona identity lands.
+- **Upgrade path** with engine versions; sample content to **replace** or **strip** as **Timeworn** identity lands.
 
 ## Implications
 
@@ -23,7 +23,7 @@
 
 ## Open (engineering)
 
-- [ ] **Fork model:** Lyra → Arizona rename vs Arizona assets → Lyra shell (document **repo / `.uproject`** name for collaborators).
+- [ ] **Fork model:** Lyra → **Timeworn** rename vs **Timeworn** assets → Lyra shell (document **repo / `.uproject`** name for collaborators).
 - [ ] **Which Lyra experiences** ship in slice v1 (e.g. B_Shooter vs custom) — **TBD**.
 - [ ] **De-Lyra pass** — when to strip/replace sample branding, menus, and **sci-fi** UI skins (priority vs slice features).
 

@@ -1,9 +1,9 @@
-# Arizona Game Concept — Working Summary
+# Timeworn — Concept (working summary)
 
 **Scope:** This file is the **creative and tonal north star** (setting, teaser, visual identity, factions as flavor). **Product and session shape** (extraction loop, slice, multiplayer) are defined in **`GAME_DESIGN_DOCUMENT.md`** and `01_vision/core_extraction_loop.md`. If anything here conflicts with those, **update the GDD and vision docs first**, then revise this summary.
 
 ## Core Premise
-A cinematic, atmospheric game set in **Arizona (circa 1858–1862)** that blends:
+**Timeworn** is a cinematic, atmospheric game set in **Arizona (circa 1858–1862)** that blends:
 - Western frontier history
 - Apache / Union conflict themes
 - Sci-fi intrusion (massive ancient or unknown mech/robot presence)
@@ -177,7 +177,7 @@ Before committing to full production
 ## Branding & Identity
 
 ### Working Name
-**TIMEWORN**
+**Timeworn**
 
 ### Aesthetic
 - Black and white mask/logo
@@ -220,9 +220,9 @@ Before committing to full production
 
 ## Summary
 
-This project is:
+**Timeworn** is:
 
-> A cinematic Western sci-fi experience set in Arizona, where human conflict is interrupted by the ظهور of something far more powerful — forcing both sides into a moment of shared fear and discovery.
+> A cinematic Western sci-fi experience set in **Arizona**, where human conflict is interrupted by the ظهور of something far more powerful — forcing both sides into a moment of shared fear and discovery.
 
 The focus right now is:
 - Tone

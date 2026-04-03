@@ -4,7 +4,7 @@ Short record so we don’t re-litigate. Format: date, decision, rationale (one p
 
 | Date | Decision | Rationale |
 |------|----------|-----------|
-| 2025-03-24 | Design hub lives in `Arizona Game Design`; game source in Unreal project **Arizona** | Clear separation of docs/tooling from engine project |
+| 2025-03-24 | Design hub for **Timeworn** (documentation repo); game source in Unreal project **Timeworn** | Clear separation of docs/tooling from engine project |
 | 2025-03-24 | Next ~4 weeks: **2 devlogs** + **10 countable “interested”** contacts; **~100 views/ep** as target not strict gate; wishlist optional | Aligns production docs with stated growth/collab goals; leading metrics prioritized in milestone file |
 | 2025-03-24 | Interest funnel v1 = **Google Form**; **collect-first** this sprint; one submission counts toward the 10 (dedupe repeats) | Simple measurable funnel before Discord/mailing list; avoids onboarding obligation until reviewed |
 | 2026-03-24 | Devlog **Sunday** publish cadence; sprint ships **2026-03-29** & **2026-04-05** (weekend production); revise if fortnightly | Matches stated “every Sunday + weekend crunch”; concrete dates for scripts and thumbnails |
@@ -23,4 +23,4 @@ Short record so we don’t re-litigate. Format: date, decision, rationale (one p
 | 2026-03-26 | **Weapon loot tiers:** grey / green / blue / pink / **yellow** (legendary); **1850–70** era for **most** lower-tier **guns**; **yellow** = **only** tier for **fully future** **base weapons**; **attachments** mostly **future**, few **simple** exceptions — `weapons_loot_tiers.md`, `attachments_catalog.md` | Clear progression read; attachments stack future tech on period frames |
 | 2026-03-26 | **Attachments:** **any tier mod** on **any tier weapon** if **compatibility** allows — balance via **stats/tradeoffs**, not hard tier locks | Enables grey gun + yellow laser fantasy; exceptions per-item OK later |
 | 2026-03-26 | **Base building** spec **stub**; **inspired by** *Dune* / *Dune: Awakening* construction fantasy — `04_systems/base_building.md` | Defers mechanics until after slice; aligns with weekly hub reset + vault |
-| 2026-03-29 | **Unreal tech baseline:** game **rebased on Lyra** starter (Epic sample) — multiplayer/UI/weapons/session patterns as foundation; Arizona gameplay built as **extensions** / replacement content | Reduces custom plumbing risk; aligns with slice strips (2P, HUD, inventory, menu); see `tech_baseline.md` |
+| 2026-03-29 | **Unreal tech baseline:** game **rebased on Lyra** starter (Epic sample) — multiplayer/UI/weapons/session patterns as foundation; **Timeworn** gameplay built as **extensions** / replacement content | Reduces custom plumbing risk; aligns with slice strips (2P, HUD, inventory, menu); see `tech_baseline.md` |

@@ -1,4 +1,4 @@
-# Game Design Document — Arizona (overview)
+# Game Design Document — Timeworn (overview)
 
 **Status:** living document · **Audience:** team, collaborators, future-you  
 **Purpose:** single entry point for **what the game is**, **why it exists**, and **where detail lives** in this repo. Depth stays in `01_`–`07_`; this file answers the standard GDD sections at overview level only.
@@ -7,7 +7,7 @@
 
 ## 1. Elevator pitch
 
-**Arizona** is a **multiplayer extraction shooter** set in a **grounded 1850s Arizona frontier** where human conflict (Union, Apache, and other tensions) collides with **inexplicable, lethal machine threats**. Raids are **PvPvE**: players, **future-robot PvE**, and environmental pressure share the same contested space. Sessions end in **extraction under pressure** (v1 fantasy: **train departure**) or failure. Between raids, a **meta layer** (vault, eventual base/social, seasons — see vision) carries long-term stakes without diluting the raid fantasy.
+**Timeworn** is a **multiplayer extraction shooter** set in a **grounded 1850s Arizona frontier** where human conflict (Union, Apache, and other tensions) collides with **inexplicable, lethal machine threats**. Raids are **PvPvE**: players, **future-robot PvE**, and environmental pressure share the same contested space. Sessions end in **extraction under pressure** (v1 fantasy: **train departure**) or failure. Between raids, a **meta layer** (vault, eventual base/social, seasons — see vision) carries long-term stakes without diluting the raid fantasy.
 
 ---
 
@@ -104,9 +104,9 @@ Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces
 
 ## 12. Presentation
 
-- **Visual identity:** Realistic base, **timeworn** read, strong light/shadow; high contrast, desert readability — see `arizona_game_concept.md` § Visual Identity.  
+- **Visual identity:** Realistic base, **Timeworn** (aged, worn) read, strong light/shadow; high contrast, desert readability — see `arizona_game_concept.md` § Visual Identity.  
 - **Audio / VFX:** Sell weight on slice weapons (musket) before library explosion.  
-- **Branding note:** Working creative name **TIMeworn** in concept doc; **shipping title TBD**.
+- **Branding note:** Game title **Timeworn**; platform store / legal final naming TBD if needed.
 
 ---
 

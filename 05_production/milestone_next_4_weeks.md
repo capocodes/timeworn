@@ -20,7 +20,7 @@
 |--|--|
 | **Channel** | **Google Form** (keep it simple; richer stack later). |
 | **Definition of “interested”** | **One form submission** = one person toward the **10**. If someone submits twice, count **once** (dedupe by email or obvious duplicate in the sheet). |
-| **Form URL** | **[Timeworn Community Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScAIMBnubumIOWQhU-J33KBrn9FmCZeTe87-0_OIu0NZ6YRyg/viewform)** *(public-facing title; design repo / Unreal project may use other working titles)* |
+| **Form URL** | **[Timeworn Community Interest Form](https://docs.google.com/forms/d/e/1FAIpQLScAIMBnubumIOWQhU-J33KBrn9FmCZeTe87-0_OIu0NZ6YRyg/viewform)** |
 | **Collect vs onboard (this month)** | **Collect-first:** gather responses, optional short thank-you; **no commitment** to onboarding collaborators until you’ve reviewed bandwidth. |
 
 ## Publish cadence
