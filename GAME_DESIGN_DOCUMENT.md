@@ -27,7 +27,7 @@ From the working concept (`arizona_game_concept.md`): **cinematic Western + slow
 | **Camera / perspective** | FPS (implied by slice: musket, HUD, Lyra baseline) |
 | **Engine baseline** | Unreal, **rebased on Epic Lyra** — see `05_production/tech_baseline.md` |
 | **Multiplayer** | Party sizes **solo / duo / trio**; slice proves **2P** path |
-| **Comparative anchors** | **RTS-flavored “you build”** fantasy redirected to **defenses** and **Exodus**, not unit production; slow methodical gunplay; mid engagement default; robot PvE readability (`01_vision/design_goals.md`, `04_systems/enemies_future_robots.md`) |
+| **Comparative anchors** | **OG RTS** (e.g. **StarCraft**) **“construction matters”** vibe redirected here to **defenses** and **Exodus**, not unit production; slow methodical gunplay; mid engagement default; robot PvE readability (`01_vision/design_goals.md`, `04_systems/enemies_future_robots.md`) |
 
 ---
 
