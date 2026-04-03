@@ -1,6 +1,6 @@
 # Timeworn — Concept (working summary)
 
-**Scope:** This file is the **creative and tonal north star** (setting, teaser, visual identity, factions as flavor). **Product and session shape** (extraction loop, slice, multiplayer) are defined in **`GAME_DESIGN_DOCUMENT.md`** and `01_vision/core_extraction_loop.md`. If anything here conflicts with those, **update the GDD and vision docs first**, then revise this summary.
+**Scope:** This file is the **creative and tonal north star** (setting, teaser, visual identity, factions as flavor). **Product and session shape** (extraction loop, tiers/trains, slice, multiplayer) are defined in **`GAME_DESIGN_DOCUMENT.md`**, **`01_vision/game_loop.md`**, and **`01_vision/core_extraction_loop.md`**. If anything here conflicts with those, **update the GDD and vision docs first**, then revise this summary.
 
 ## Core Premise
 **Timeworn** is a cinematic, atmospheric game set in **Arizona (circa 1858–1862)** that blends:

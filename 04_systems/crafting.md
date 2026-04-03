@@ -11,7 +11,7 @@
 ## Links
 
 - **Base building** uses crafted outputs — `../01_vision/meta_loop_intent.md`, `base_building.md`.
-- **Loadout** sources crafted gear — `../01_vision/core_extraction_loop.md`.
+- **Loadout** sources crafted gear — `../01_vision/core_extraction_loop.md`. **Macro placement** (workbench / blacksmith / tech buildings vs tiers) — `../01_vision/game_loop.md`.
 - **Enemy loop** — `enemies_future_robots.md`.
 - **Weapon tiers / mods** — `weapons_loot_tiers.md`, `attachments_catalog.md`.
 

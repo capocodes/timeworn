@@ -7,7 +7,7 @@
 
 ## 1. Elevator pitch
 
-**Timeworn** is a **multiplayer extraction shooter** set in a **grounded 1850s Arizona frontier** where human conflict (Union, Apache, and other tensions) collides with **inexplicable, lethal machine threats**. Raids are **PvPvE**: players, **future-robot PvE**, and environmental pressure share the same contested space. Sessions end in **extraction under pressure** (v1 fantasy: **train departure**) or failure. Between raids, a **meta layer** (vault, eventual base/social, seasons — see vision) carries long-term stakes without diluting the raid fantasy.
+**Timeworn** is a **multiplayer extraction shooter** set in a **grounded 1850s Arizona frontier** where human conflict (Union, Apache, and other tensions) collides with **inexplicable, lethal machine threats**. Raids are **PvPvE**: players, **future-robot PvE**, and environmental pressure share the same contested space. A **macro loop** moves runs through **survive → build → extract** tiers (low → high loot) with **tiered train extractions** and a **final extract** after **Exodus** — see `01_vision/game_loop.md`. Sessions end in **extraction under pressure** (v1 fantasy: **train departure**) or failure. Between raids, **stash & social** plus a **meta layer** (vault, base/social, seasons — see vision) carry long-term stakes without diluting the raid fantasy.
 
 ---
 
@@ -15,7 +15,7 @@
 
 From the working concept (`arizona_game_concept.md`): **cinematic Western + slow-reveal sci‑fi intrusion** — mystery-first, high-contrast light, “something is deeply wrong” before full explanation. The **massive mechanical presence** is a **tone and stakes anchor** for marketing and worldbuilding; **in raid**, PvE is expressed first through **readable future robots** (salvage → tech craft) while the **full lore of the mech-scale threat** stays deliberately unresolved in docs until narrative locks it.
 
-**Product shape:** the shipped game experience is **session-based extraction**, not a linear campaign-first title. Cinematic and teaser work **sell the fantasy**; the **loop doc** (`01_vision/core_extraction_loop.md`) is **session truth**.
+**Product shape:** the shipped game experience is **session-based extraction**, not a linear campaign-first title. Cinematic and teaser work **sell the fantasy**; **`01_vision/game_loop.md`** is **macro session structure** (tiers, trains, craft/town/build spine); **`01_vision/core_extraction_loop.md`** is the **step-by-step raid flow** and **slice alignment**.
 
 ---
 
@@ -37,7 +37,8 @@ From the working concept (`arizona_game_concept.md`): **cinematic Western + slow
 2. **Deliberate combat** — long TTK band vs twitch; **one strong weapon** in slice (single-shot musket) before expanding arsenal.  
 3. **PvPvE integrity** — players + machines + environment; **no safe zones in raid**; human threat is **players/factions**, not “filler bandits.”  
 4. **Few systems, each excellent** — slice limits feature count; depth on included systems (gun feel, HUD, extract moment, minimal inventory).  
-5. **Grounded frontier + uncanny tech** — historical texture; sci‑fi layered via **loot tiers, attachments, robots**, not lore dumps mid-fight.
+5. **Grounded frontier + uncanny tech** — historical texture; sci‑fi layered via **loot tiers, attachments, robots**, not lore dumps mid-fight.  
+6. **Readable session arc** — **Survive** (craft, unlock, claim) → **build** (town, tech, defenses) → **extract** climax (**Exodus** / final extract) stays legible in product, not buried in UI noise.
 
 ---
 
@@ -59,9 +60,10 @@ From the working concept (`arizona_game_concept.md`): **cinematic Western + slow
 
 ## 7. Core gameplay loop (session)
 
-Canonical detail: `01_vision/core_extraction_loop.md`.
+**Macro structure (tiers, trains, facilities):** `01_vision/game_loop.md`.  
+**Step list + vertical slice table:** `01_vision/core_extraction_loop.md`.
 
-**Summary:** Party → **loadout** (subset; rest in **vault**) → **join instance** → **raid pressure** (time) → **loot / fight / PvPvE** → **extract** (train v1) → **round review** (post-slice).
+**Summary:** **Stash & social** → party → **loadout** (subset; rest in **vault**) → **join instance** → **spawn** → **raid pressure** (time) → mid-raid play that **ramps** **survive / build / extract** with **low → high** loot (`game_loop.md`) → **extract** (**Extract Train 1–3** by tier, **final extract** after **Exodus** in target design; slice proves **train v1** / tier-1 exit) → **round review** (post-slice).
 
 Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces; **extraction mandatory** for success framing (lore justification for *why* extract is forced: TBD narrative).
 
@@ -77,7 +79,7 @@ Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces
 | **Vault & loadout** | Vault survives weekly hub wipe; loadout = raid carry | `04_systems/vault_and_loadout.md` |
 | **PvE enemies** | Future robots; fast reposition, slow lethal telegraphs | `04_systems/enemies_future_robots.md` |
 | **Crafting / vendors / skills** | Post-slice economy depth | `04_systems/crafting.md`, `vendors.md`, `skills.md` |
-| **Base building** | Intent only; weekly reset fantasy | `04_systems/base_building.md`, `01_vision/meta_loop_intent.md` |
+| **Base / town loop** | **Town → build → tech → defenses** unlocks **Exodus**; ties to tier 2–3 | `01_vision/game_loop.md`, `04_systems/base_building.md`, `01_vision/meta_loop_intent.md` |
 | **UI** | Minimal, legible HUD; intentional not debug | Slice strip #6, production notes |
 
 ---
@@ -112,8 +114,7 @@ Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces
 
 ## 13. Scope — vertical slice & engineering
 
-**Slice spine:** nine strips from player movement through **2P**, ordered in `05_production/playable_slice_strip_order.md` — **full loop playable in rough form** before feature creep.  
-**Anti-pattern:** Second gun, full roster, deep meta UI before the loop ships.
+**Slice spine:** nine strips from player movement through **2P**, ordered in `05_production/playable_slice_strip_order.md` — proves **tier-1 / survive** session spine plus **one** strong **train extract** before layering **town, defenses, Exodus** (`game_loop.md`). **Anti-pattern:** Second gun, full roster, deep meta UI before that spine ships.
 
 ---
 
@@ -131,7 +132,7 @@ Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces
 
 | Need | Path |
 |------|------|
-| Session truth & slice alignment | `01_vision/core_extraction_loop.md`, `05_production/playable_slice_strip_order.md` |
+| Session truth, tiers & slice alignment | `01_vision/game_loop.md`, `01_vision/core_extraction_loop.md`, `05_production/playable_slice_strip_order.md` |
 | Goals & PvPvE rules | `01_vision/design_goals.md` |
 | Meta & resets | `01_vision/meta_loop_intent.md`, `resets_and_world_events.md` |
 | Creative premise & trailer | `arizona_game_concept.md` |
@@ -141,4 +142,4 @@ Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces
 
 ---
 
-*This overview is the **scope contract** at a glance. When vision and concept diverge, **update this file first**, then align `core_extraction_loop.md` and `arizona_game_concept.md` so pitch, session truth, and folders stay one story.*
+*This overview is the **scope contract** at a glance. When vision and concept diverge, **update this file first**, then align `game_loop.md`, `core_extraction_loop.md`, and `arizona_game_concept.md` so pitch, session truth, and folders stay one story.*

@@ -7,7 +7,8 @@ Premise, pillars, audience, non‑negotiables.
 **Creative premise & teaser:** **`../arizona_game_concept.md`**. Split into focused files here when ready (e.g. `premise.md`, `pillars.md`, `tone.md`).
 
 - **`design_goals.md`** — Cross-cutting targets: combat pace/TTK, engagement distances, anti-grief, PvPvE / no safe zones (+ base exception note).
-- **`core_extraction_loop.md`** — **Canonical** raid session loop (party → loadout → join → pressure → PvPvE → train extract → review); slice alignment table.
+- **`game_loop.md`** — **Macro** loop: stash ↔ loadout ↔ raid; **three tiers** (survive / build / extract × low / med / high loot); **Extract Train 1–3** + **final extract**; craft → town → build → defenses → **Exodus**.
+- **`core_extraction_loop.md`** — **Canonical raid steps** (party → loadout → join → pressure → PvPvE → extract → review) and **nine-strip** alignment table; defers tier detail to `game_loop.md`.
 - **`meta_loop_intent.md`** — Between-raid intent: quests (co-op vs solo), PvE base/social, seasons, horses?, factions.
 - **`resets_and_world_events.md`** — **Multi-timeline** cadence: **weekly** hub reset (Dune-inspired), **seasonal**, **other** beats + **world events**; how layers stack.
 - **Economy / progression (systems):** `../04_systems/vendors.md`, `../04_systems/crafting.md`, `../04_systems/skills.md`, `../04_systems/vault_and_loadout.md` (not slice v1).

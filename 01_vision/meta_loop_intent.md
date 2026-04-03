@@ -49,4 +49,4 @@
 
 ---
 
-*Related:* `core_extraction_loop.md`, `resets_and_world_events.md`, `scale_and_unresolved.md`, `design_goals.md`, `../04_systems/player_server_cardinality.md`.
+*Related:* `game_loop.md`, `core_extraction_loop.md`, `resets_and_world_events.md`, `scale_and_unresolved.md`, `design_goals.md`, `../04_systems/player_server_cardinality.md`.
