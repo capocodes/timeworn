@@ -29,7 +29,7 @@
 - **2026-03-29** — mostly **#1** + weapon animation pipeline feeding **#4** musket feel.
 - **2026-04-05** — **enemy** + **#5** (enemy-side damage); frame as **quality** threat encounter, not “grey capsule = done.”
 
-## Producer risks (friendly)
+## Delivery risks
 
 - **Multiplayer last** is still **high blast radius** in Unreal. If needed: **SP loop complete first**, then MP as **9b**; or stub replication early if it affects movement/weapons.
 - **Extraction + MP** — synced win condition / authority plan early if train timing matters in 2P.

@@ -1,6 +1,6 @@
 # Milestone — next ~4 weeks
 
-*Agreed direction from producer sync.*
+*Agreed direction from planning sync.*
 
 ## Outcomes (what “win” means)
 
@@ -8,7 +8,7 @@
 2. **Reach:** Each episode targets **~100 views** (see note below — this is partly lagging / platform-dependent).
 3. **Community / interest:** **10 people** who show meaningful engagement on a spectrum from “watching how it goes” to “I’d contribute for free.” **Steam wishlist** is a stretch goal; smaller proof (Discord join, email, DM, comment + follow-up) is acceptable for this sprint.
 
-## Producer note — pushback (friendly)
+## Notes on metrics
 
 - **Views** are not fully in your control (algorithm, niche, title/thumbnail, timing). Treat **~100** as a *target*, not pass/fail. **Leading** metrics you *do* control: publish dates locked, 2 scripts drafted, thumbnails done, cross-post plan (if any).
 - **“10 interested”** needs a **single place to land** or you can’t count honestly. Pick one primary funnel (e.g. Discord server, Google Form, “reply with X” thread) before you call the milestone done.

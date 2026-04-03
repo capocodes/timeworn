@@ -21,13 +21,7 @@ Design docs, production tracking, devlog scripts, and tooling for the game **Ari
 
 **Working concept (current):** `arizona_game_concept.md` at repo root — migrate sections into the numbered folders as they stabilize.
 
-**Your next actions:** see **`TODOs.md`** at repo root.
-
 ## Working agreement
 
 - One major topic per file where possible.
 - Design canon lives under `01_`–`07_`; rolling AI/session notes live in `00_meta/assistant/`.
-
----
-
-*Producer contact: use this repo + chat; we’ll align on priorities one decision at a time.*

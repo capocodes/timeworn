@@ -11,7 +11,7 @@
 ## 2025-03-24 — Priority sync (4-week win)
 
 - **User intent:** (1) **2** new devlogs, each aiming for **~100 views**; (2) **10** “interested” people on a spectrum from casual following → willing to collaborate for free; Steam wishlist nice-to-have, smaller proof OK.
-- **Producer stance:** Views = lagging; lock **2 ship dates** and a **single funnel** for counting interest. Clarify whether this month is **collect leads only** vs **onboarding collaborators**.
+- **Direction:** Views = lagging; lock **2 ship dates** and a **single funnel** for counting interest. Clarify whether this month is **collect leads only** vs **onboarding collaborators**.
 - **Canon:** `05_production/milestone_next_4_weeks.md`
 
 ## 2025-03-24 — Funnel

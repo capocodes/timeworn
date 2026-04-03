@@ -55,7 +55,7 @@
    - **Scheduled weekly hub reset** (`../01_vision/meta_loop_intent.md`) — if the **neighborhood’s buildable space** **wipes every week**, **sunset** becomes less about **orphaned structures** and more about **player assignment** + **what persists off-hub**. Align **merge** windows with **reset** tick when possible.  
    - **Ops win:** **Worst case**, you can **rebalance how many neighborhood servers** you run **on the next weekly boundary** — open new hoods, **merge** pools, or **shift capacity** without promising **infinite** persistence of **hub layout**. Players expect a **fresh build week** anyway; you’re tuning **shard cardinality** between those beats.
 
-## Recommendation (working producer default)
+## Recommendation (working default)
 
 - If you want **one character per server**, pair it with **instanced raids** and **party-first matchmaking** so **solo** and **friends** both funnel through the **same raid queue**, while **base/progression** stays **realm-local**.
 
