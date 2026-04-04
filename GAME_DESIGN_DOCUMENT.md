@@ -7,7 +7,7 @@
 
 ## 1. Elevator pitch
 
-**Timeworn** is a **multiplayer action sandbox** set in a **grounded 1850s Arizona frontier** where human conflict (Union, Apache, and other tensions) collides with **inexplicable, lethal machine threats**. It pairs **deliberate FPS gunplay** with **strategy on the map**: scavenging, crafting, and **building**—not to spawn armies like classic RTS, but to **erect defenses** and advance tech so you can **craft and reach the endgame objective, Exodus**. **Extraction** (e.g. **tiered train exits**, **final extract**) is a **high-stakes mechanic** that closes runs, not the whole genre label—unlike extraction shooters that lean almost entirely on shooting with thin strategic layer. Sessions are **PvPvE** in contested spaces. A **macro loop** moves runs through **survive → build → extract** tiers (low → high loot)—see [Game Loop](01_vision/game_loop.md). Between raids, **stash & social** plus **meta** (vault, base/social, seasons — see vision) carry long-term stakes.
+**Timeworn** is a **multiplayer action sandbox** set in a **grounded 1850s Arizona frontier** where human conflict (Union, Apache, and other tensions) collides with **inexplicable, lethal machine threats**. It pairs **deliberate TPS gunplay** with **strategy on the map**: scavenging, crafting, and **building**—not to spawn armies like classic RTS, but to **build defenses** and advance tech so you can **craft and reach the endgame objective, Exodus**. **Extraction** (e.g. **tiered train exits**, **final extract**) is a **high-stakes mechanic** that closes runs, not the whole genre label...unlike extraction shooters that lean almost entirely on shooting with thin strategic layer. Sessions are **PvPvE** in contested spaces. A **macro loop** moves runs through **survive → build → extract** tiers (low → high loot)—see [Game Loop](01_vision/game_loop.md). Between raids, **stash & social** plus **meta** (vault, base/social, seasons — see vision) carry long-term stakes.
 
 ---
 
@@ -64,7 +64,7 @@ From the working [Concept](arizona_game_concept.md): **cinematic Western + slow-
 **Macro structure (tiers, trains, facilities):** [Game Loop](01_vision/game_loop.md).  
 **Step list + vertical slice table:** [Core Session Loop](01_vision/core_extraction_loop.md).
 
-**Summary:** **Stash & social** → party → **loadout** (subset; rest in **vault**) → **join instance** → **spawn** → **raid pressure** (time) → mid-raid play that **ramps** **survive / build / extract** with **low → high** loot ([Game Loop](01_vision/game_loop.md)) → **extract** (**Extract Train 1–3** by tier, **final extract** after **Exodus** in target design; slice proves **train v1** / tier-1 exit) → **round review** (post-slice).
+**Summary:** **Stash & social** → party → **loadout** (subset; rest in **vault**) → **join instance** → **spawn** → **raid pressure** (time) → mid-raid play that **ramps** **survive / build / extract** with **low → high** loot ([Game Loop](01_vision/game_loop.md)) → **extract** (**Extract Train 1–3** by tier, **final extract** after **Exodus**) → **round review** (post-slice).
 
 Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces; **successful session framing** still routes through **extract beats** (lore justification for *why* pressure forces that: TBD narrative).
 
@@ -101,14 +101,14 @@ Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces
 
 ## 11. World & levels (overview)
 
-**World structure:** Raid spaces = **contested pocket environments**; slice uses a **small authored pocket** with readable sightlines for musket play ([Playable Slice — Strip Order](05_production/playable_slice_strip_order.md)). **Act / level list** and beats per level: stub under [World & Levels](03_world_levels/_index.md) — to expand as levels are named.
+**World structure:** Raid spaces = **contested pocket environments**; a **small authored pocket** with readable sightlines for musket play ([Playable Slice — Strip Order](05_production/playable_slice_strip_order.md)). **Act / level list** and beats per level: stub under [World & Levels](03_world_levels/_index.md) — to expand as levels are named.
 
 ---
 
 ## 12. Presentation
 
 - **Visual identity:** Realistic base, **Timeworn** (aged, worn) read, strong light/shadow; high contrast, desert readability — see [Concept § Visual Identity](arizona_game_concept.md).  
-- **Audio / VFX:** Sell weight on slice weapons (musket) before library explosion.  
+- **Audio / VFX:** Contrasting between classic old-west vibes and mechanical gritty aged machines/AI.  
 - **Branding note:** Game title **Timeworn**; platform store / legal final naming TBD if needed.
 
 ---
@@ -126,6 +126,7 @@ Non-negotiables in raid: **PvPvE**, **no fully safe spaces** in contested spaces
 - **Anti-grief:** Intent in [Design Goals](01_vision/design_goals.md); mechanics TBD.  
 - **Extract variants:** Train v1; other exits later.  
 - **Round review:** Not slice v1; design before post-slice milestone.
+- **Anti cheat:** and other systems to provide fun & fair gameplay.
 
 ---
 

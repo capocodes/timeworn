@@ -49,7 +49,7 @@ This repo is the **design and production hub**. Game source and Unreal assets li
 | Vision | [01_vision/](01_vision/_index.md) | [Game Loop](01_vision/game_loop.md), [Core Session Loop](01_vision/core_extraction_loop.md), [Design Goals](01_vision/design_goals.md), [Meta Loop](01_vision/meta_loop_intent.md) |
 | Narrative | [02_narrative/](02_narrative/_index.md) | Story, characters, factions |
 | World & levels | [03_world_levels/](03_world_levels/_index.md) | Level flow, beats, layout intent |
-| Systems | [04_systems/](04_systems/_index.md) | [Weapons & Loot](04_systems/weapons_loot_tiers.md), [Enemies](04_systems/enemies_future_robots.md), [Crafting](04_systems/crafting.md), [Vault](04_systems/vault_and_loadout.md), [Base Building](04_systems/base_building.md), and more |
+| Gameplay | [04_systems/](04_systems/_index.md) | [Weapons & Loot](04_systems/weapons_loot_tiers.md), [Enemies](04_systems/enemies_future_robots.md), [Crafting](04_systems/crafting.md), [Vault](04_systems/vault_and_loadout.md), [Base Building](04_systems/base_building.md), and more |
 | Production | [05_production/](05_production/_index.md) | [Playable Slice](05_production/playable_slice_strip_order.md), [Milestone](05_production/milestone_next_4_weeks.md), [Decisions](05_production/decisions.md) |
 | Business | `06_business/` | Pitch, investment, budget |
 | Reference | `07_reference/` | Research, mood, links |
