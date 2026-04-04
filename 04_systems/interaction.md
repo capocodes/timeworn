@@ -5,7 +5,7 @@
 ## Intent
 
 - **Unified prompt:** Single interaction key; context determines action (loot, open, build, craft, mine, board train, talk to NPC).
-- **Consumers:** [Looting](looting.md), [Mining Behaviors](mining_behaviors.md), [Building](building.md), [Crafting](crafting.md), [Extraction](extraction.md) (boarding), [Vendors](vendors.md), doors/switches/world objects.
+- **Consumers:** [Loot & Gathering](loot_and_gathering.md) (pickup + mining), [Building](building.md), [Crafting](crafting.md), [Extraction](extraction.md) (boarding), [Vendors](vendors.md), doors/switches/world objects.
 - **Priority:** When multiple interactables overlap, closest / most relevant wins (rules TBD).
 - **Replication:** Interactions that change world state must replicate via [Multiplayer](multiplayer.md).
 
